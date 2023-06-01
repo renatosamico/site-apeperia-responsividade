@@ -1,2 +1,2 @@
-# site-apeperia-responsividade
-Quarto projeto foi um site responsivo. Responsividade é simples e necessário!
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
